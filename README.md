@@ -18,7 +18,7 @@ Offline WhatsApp + Discord for LAN — chat, share files, and communicate withou
 ## 📥 Download
 
 Download the latest version from Releases:
-👉 https://github.com/yourusername/yourrepo/releases
+👉 https://github.com/Heeraj-S-K/p2p-lanchat/releases
 
 ---
 
