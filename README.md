@@ -32,12 +32,6 @@ Download the latest version from Releases:
 
 ---
 
-## 📸 Screenshots
-
-(Add screenshots here)
-
----
-
 ## ⚙️ Tech Stack
 
 * Electron
