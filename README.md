@@ -1,35 +1,68 @@
-# P2P LAN Chat
+# LanChat
 
-Peer-to-peer chat using WebRTC data channels.
+Offline WhatsApp + Discord for LAN — chat, share files, and communicate without internet.
 
-## Run in dev
+---
 
-```bash
-npm install
-npm run dev -- --host
-```
+## 🚀 Features
 
-## Build a single Windows `.exe` (portable)
+* 🔌 Zero setup LAN connection (auto-detect users)
+* 💬 Real-time chat
+* 📂 File sharing (up to 50MB)
+* 🖼️ Media preview (images/videos)
+* ⚡ Fast local network performance
+* 🔒 Works completely offline
 
-This project packages into a **single executable** using Electron + electron-builder.
+---
 
-### Prerequisite (Windows)
+## 📥 Download
 
-`electron-builder` needs permission to create symbolic links while extracting build tools.
+Download the latest version from Releases:
+👉 https://github.com/yourusername/yourrepo/releases
 
-Enable **Developer Mode**:
+---
 
-- Settings → Privacy & security → For developers → **Developer Mode** → On
+## 🛠️ How to Use
 
-### Build
+1. Install the app on all devices
+2. Connect to the same WiFi / LAN
+3. Open the app
+4. Devices will auto-detect each other
+5. Start chatting and sharing files
 
-```bash
-npm run dist:win
-```
+---
 
-### Output
+## 📸 Screenshots
 
-Look in:
+(Add screenshots here)
 
-- `release/` → `P2P LAN Chat.exe` (portable, single file)
+---
 
+## ⚙️ Tech Stack
+
+* Electron
+* Node.js
+* WebSockets
+* WebRTC (for calls)
+
+---
+
+## ⚠️ Notes
+
+* Works only on the same local network
+* No internet required
+* Firewall may need to allow the app
+
+---
+
+## 🧠 Future Plans
+
+* 🎥 Video calling
+* 📡 Improved discovery system
+* 📱 Mobile version
+
+---
+
+## 👤 Author
+
+Built by Heeraj
