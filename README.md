@@ -4,6 +4,18 @@ Offline WhatsApp + Discord for LAN — chat, share files, and communicate withou
 
 ---
 
+# P2P LAN Chat
+
+## Preview
+![Chat UI](screenshots/your-image-name.png)
+![Connection](screenshots/your-image-name2.png)
+![Connection](screenshots/your-image-name2.png)
+![Connection](screenshots/your-image-name2.png)
+
+
+---
+
+
 ## 🚀 Features
 
 * 🔌 Zero setup LAN connection (auto-detect users)
